@@ -1,0 +1,143 @@
+<settings version="2">
+    <setting id="account_default" default="true">1</setting>
+    <setting id="accounts" default="true">1</setting>
+    <setting id="always_cache" default="true">false</setting>
+    <setting id="avoid_codec" default="true">0</setting>
+    <setting id="avoid_format" default="true">0</setting>
+    <setting id="cache_continue" default="true">false</setting>
+    <setting id="cache_folder" default="true"></setting>
+    <setting id="cache_percent">10</setting>
+    <setting id="cache_single" default="true">false</setting>
+    <setting id="cache_srt" default="true">false</setting>
+    <setting id="cache_thumbnails" default="true">false</setting>
+    <setting id="cc">true</setting>
+    <setting id="chunk_size">163840</setting>
+    <setting id="context_emusic" default="true">0</setting>
+    <setting id="context_ephoto" default="true">0</setting>
+    <setting id="context_evideo" default="true">0</setting>
+    <setting id="context_music" default="true">0</setting>
+    <setting id="context_photo" default="true">0</setting>
+    <setting id="context_video" default="true">0</setting>
+    <setting id="crypto_password" default="true"></setting>
+    <setting id="crypto_salt" default="true"></setting>
+    <setting id="encfs_cache_percent">10</setting>
+    <setting id="encfs_cache_single" default="true">false</setting>
+    <setting id="encfs_chunk_size">163840</setting>
+    <setting id="encfs_continue" default="true">false</setting>
+    <setting id="encfs_download_type">1</setting>
+    <setting id="encfs_exp" default="true">false</setting>
+    <setting id="encfs_inode" default="true">0</setting>
+    <setting id="encfs_source" default="true"></setting>
+    <setting id="encfs_stream" default="true">false</setting>
+    <setting id="encfs_target" default="true"></setting>
+    <setting id="gdrive1_client_id">826307526723-cr2drjsdavp7hn39s4c2j3796f6fd68t.apps.googleusercontent.com</setting>
+    <setting id="gdrive1_client_secret">xddHhgV5tjVyR9sKksQuWCQ7</setting>
+    <setting id="gdrive1_code">4/3gEom7BRWViP04DtQIW6Kz13Bu3uf7ZgYnjP1FWYGrcO4lDH-xPqq2Q</setting>
+    <setting id="gdrive1_passcode" default="true"></setting>
+    <setting id="gdrive1_password" default="true"></setting>
+    <setting id="gdrive1_resumepoint">1</setting>
+    <setting id="gdrive1_spreadsheetname" default="true"></setting>
+    <setting id="gdrive1_type">3</setting>
+    <setting id="gdrive1_url" default="true"></setting>
+    <setting id="gdrive1_username">CallejaHermana</setting>
+<setting id="gdrive1_auth_access_token">ya29.a0AfH6SMCghMcvKEM2OSAAB26EnGoePbH3nyBpgpGDaDTr8DcpX7SPoxgwPC9NbJmkmijOQ5SP3UHP3O2e63WjMMBZkDCIEUrX_bScDHHYeZFmttjONKDRN8PgTggDDNaYO3DHTMaTAmGMWeM7tyTCKd_qPIKjJWJ3DII</setting>
+<setting id="gdrive1_auth_refresh_token">1//03MWz0PkT2B6MCgYIARAAGAMSNwF-L9IrpAHwWLGT2IqV-CE7mamp5YKyVUfvfiV44zDDv1-EGJ9ox8Mwz0m283Cok7ENe_UZKAc</setting>
+    <setting id="gdrive2_client_id" default="true"></setting>
+    <setting id="gdrive2_client_secret" default="true"></setting>
+    <setting id="gdrive2_code" default="true"></setting>
+    <setting id="gdrive2_passcode" default="true"></setting>
+    <setting id="gdrive2_password" default="true"></setting>
+    <setting id="gdrive2_resumepoint">1</setting>
+    <setting id="gdrive2_spreadsheetname" default="true"></setting>
+    <setting id="gdrive2_type">4</setting>
+    <setting id="gdrive2_url" default="true"></setting>
+    <setting id="gdrive2_username" default="true"></setting>
+    <setting id="gdrive3_client_id" default="true"></setting>
+    <setting id="gdrive3_client_secret" default="true"></setting>
+    <setting id="gdrive3_code" default="true"></setting>
+    <setting id="gdrive3_passcode" default="true"></setting>
+    <setting id="gdrive3_password" default="true"></setting>
+    <setting id="gdrive3_resumepoint">1</setting>
+    <setting id="gdrive3_spreadsheetname" default="true"></setting>
+    <setting id="gdrive3_type">4</setting>
+    <setting id="gdrive3_url" default="true"></setting>
+    <setting id="gdrive3_username" default="true"></setting>
+    <setting id="gdrive4_client_id" default="true"></setting>
+    <setting id="gdrive4_client_secret" default="true"></setting>
+    <setting id="gdrive4_code" default="true"></setting>
+    <setting id="gdrive4_passcode" default="true"></setting>
+    <setting id="gdrive4_password" default="true"></setting>
+    <setting id="gdrive4_resumepoint">1</setting>
+    <setting id="gdrive4_spreadsheetname" default="true"></setting>
+    <setting id="gdrive4_type">4</setting>
+    <setting id="gdrive4_url" default="true"></setting>
+    <setting id="gdrive4_username" default="true"></setting>
+    <setting id="gdrive5_client_id" default="true"></setting>
+    <setting id="gdrive5_client_secret" default="true"></setting>
+    <setting id="gdrive5_code" default="true"></setting>
+    <setting id="gdrive5_passcode" default="true"></setting>
+    <setting id="gdrive5_password" default="true"></setting>
+    <setting id="gdrive5_resumepoint">1</setting>
+    <setting id="gdrive5_spreadsheetname" default="true"></setting>
+    <setting id="gdrive5_type">4</setting>
+    <setting id="gdrive5_url" default="true"></setting>
+    <setting id="gdrive5_username" default="true"></setting>
+    <setting id="gdrive6_client_id" default="true"></setting>
+    <setting id="gdrive6_client_secret" default="true"></setting>
+    <setting id="gdrive6_code" default="true"></setting>
+    <setting id="gdrive6_passcode" default="true"></setting>
+    <setting id="gdrive6_password" default="true"></setting>
+    <setting id="gdrive6_resumepoint">1</setting>
+    <setting id="gdrive6_spreadsheetname" default="true"></setting>
+    <setting id="gdrive6_type">4</setting>
+    <setting id="gdrive6_url" default="true"></setting>
+    <setting id="gdrive6_username" default="true"></setting>
+    <setting id="gdrive7_client_id" default="true"></setting>
+    <setting id="gdrive7_client_secret" default="true"></setting>
+    <setting id="gdrive7_code" default="true"></setting>
+    <setting id="gdrive7_passcode" default="true"></setting>
+    <setting id="gdrive7_password" default="true"></setting>
+    <setting id="gdrive7_resumepoint">1</setting>
+    <setting id="gdrive7_spreadsheetname" default="true"></setting>
+    <setting id="gdrive7_type">4</setting>
+    <setting id="gdrive7_url" default="true"></setting>
+    <setting id="gdrive7_username" default="true"></setting>
+    <setting id="gdrive8_client_id" default="true"></setting>
+    <setting id="gdrive8_client_secret" default="true"></setting>
+    <setting id="gdrive8_code" default="true"></setting>
+    <setting id="gdrive8_passcode" default="true"></setting>
+    <setting id="gdrive8_password" default="true"></setting>
+    <setting id="gdrive8_resumepoint">1</setting>
+    <setting id="gdrive8_spreadsheetname" default="true"></setting>
+    <setting id="gdrive8_type">4</setting>
+    <setting id="gdrive8_url" default="true"></setting>
+    <setting id="gdrive8_username" default="true"></setting>
+    <setting id="gdrive9_client_id" default="true"></setting>
+    <setting id="gdrive9_client_secret" default="true"></setting>
+    <setting id="gdrive9_code" default="true"></setting>
+    <setting id="gdrive9_passcode" default="true"></setting>
+    <setting id="gdrive9_password" default="true"></setting>
+    <setting id="gdrive9_resumepoint">1</setting>
+    <setting id="gdrive9_spreadsheetname" default="true"></setting>
+    <setting id="gdrive9_type">4</setting>
+    <setting id="gdrive9_url" default="true"></setting>
+    <setting id="gdrive9_username" default="true"></setting>
+    <setting id="local_db" default="true">false</setting>
+    <setting id="movie_db_watch" default="true">false</setting>
+    <setting id="never_stream" default="true">false</setting>
+    <setting id="parse_music">true</setting>
+    <setting id="parse_tv">true</setting>
+    <setting id="photo_folder" default="true"></setting>
+    <setting id="photo_resolution" default="true">0</setting>
+    <setting id="preferred_format" default="true">0</setting>
+    <setting id="preferred_quality" default="true">0</setting>
+    <setting id="prompt_quality">true</setting>
+    <setting id="resumeprompt">true</setting>
+    <setting id="srt">true</setting>
+    <setting id="stream_port">8011</setting>
+    <setting id="streamer" default="true">false</setting>
+    <setting id="strm" default="true">false</setting>
+    <setting id="strm_path" default="true"></setting>
+    <setting id="tv_db_watch" default="true">false</setting>
+    <setting id="video_skip">98</setting>
+</settings>
